@@ -1,2 +1,4 @@
-# National-Simulator
+# 介绍
 国家模拟器，你将如何带领你的国家走向巅峰？
+# 平台支持
+仅支持Windows全版本（？实测Windows7/10/11可用）
