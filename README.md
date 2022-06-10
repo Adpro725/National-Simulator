@@ -11,7 +11,7 @@
 三、2022年儿童节特殊版本发布<br/>
 四、2022年端午节特殊版本发布
 ## 扩展包
-一、氢-扩展包：https://wwt.lanzouw.com/iU91e067svve 密码:Qing
+一、氢-扩展包：https://wwt.lanzouw.com/idBDw067t5jc 密码:Qing
 # Introduction in English
 ## Introduction
 National simulator, how will you lead your country to the top?
@@ -25,4 +25,4 @@ May be reported as toxic by windows, and the software promises to be non-toxic
 3. Children's Day 2022 special edition release <br/>
 4. 2022 Dragon Boat Festival special edition release
 ## Expansion pack
-1.Hydrogen - Expansion Pack: https://wwt.lanzouw.com/iU91e067svve Password: Qing
+1.Hydrogen - Expansion Pack: https://wwt.lanzouw.com/idBDw067t5jc Password: Qing
