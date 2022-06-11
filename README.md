@@ -10,7 +10,7 @@
 二、2.0.0版本震撼发布<br/>
 三、2022年儿童节特殊版本发布<br/>
 四、2022年端午节特殊版本发布<br/>
-五、2.0.0及以上版本将支持扩展包
+五、2.0.3及以上版本将支持扩展包
 ## 扩展包
 一、氢-扩展包：https://wwt.lanzouw.com/iisXx068g9id 密码:Qing
 # Introduction in English
@@ -25,6 +25,6 @@ May be reported as toxic by windows, and the software promises to be non-toxic
 2. 2.0.0 release<br/>
 3. Children's Day 2022 special edition release<br/>
 4. 2022 Dragon Boat Festival special edition release<br/>
-5. Version 2.0.0 and above will support expansion packs
+5. Version 2.0.3 and above will support expansion packs
 ## Expansion pack
 1.Hydrogen - Expansion Pack: https://wwt.lanzouw.com/iisXx068g9id Password: Qing
