@@ -12,7 +12,9 @@
 四、2022年端午节特殊版本发布<br/>
 五、2.0.3及以上版本将支持扩展包
 ## 扩展包
-一、氢-扩展包 1.0：https://wwt.lanzouw.com/iH5TO06efxji 密码:Qing
+一、氢-扩展包 1.0：https://wwt.lanzouw.com/iH5TO06efxji 密码:Qing<br/>
+二、氦-扩展包 1.0：https://wwt.lanzouw.com/ixr4A06f6nja 密码:Hai
+<br/>
 # Introduction in English
 ## Introduction
 National simulator, how will you lead your country to the top?
@@ -27,4 +29,5 @@ May be reported as toxic by windows, and the software promises to be non-toxic
 4. 2022 Dragon Boat Festival special edition release<br/>
 5. Version 2.0.3 and above will support expansion packs
 ## Expansion pack
-1.Hydrogen - Expansion Pack 1.0: https://wwt.lanzouw.com/iH5TO06efxji Password: Qing
+1.Hydrogen - Expansion Pack 1.0: https://wwt.lanzouw.com/iH5TO06efxji Password: Qing<br/>
+2.Helium - Expansion Pack 1.0: https://wwt.lanzouw.com/ixr4A06f6nja Password: Hai
